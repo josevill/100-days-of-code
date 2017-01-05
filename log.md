@@ -7,4 +7,4 @@
 
 **Thoughts**: I don't know if i should be working with Laravel itself or use Lumen as this project won't be that 'big', but you never know.
 
-**Link(s) to work**: [It's not yet setup on the we](http://kbono.xyz/brackets)
+**Link(s) to work**: [It's not yet setup on the web](http://kbono.xyz/brackets)
